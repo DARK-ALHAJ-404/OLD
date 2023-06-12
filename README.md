@@ -6,5 +6,5 @@
 
 <3> python ALHAJ-OLD.py
 
-#Facebook Group 1 <=> https://facebook.com/groups/1713018672413612/
-#Facebook Group 2 <=> https://facebook.com/groups/1305095707112247/
+# Facebook Group 1 <=> https://facebook.com/groups/1713018672413612/
+# Facebook Group 2 <=> https://facebook.com/groups/1305095707112247/
